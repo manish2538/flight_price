@@ -1,5 +1,6 @@
 # flight_ticket fare prediction
 flight ticket price predictions
+project demo - https://fprice.herokuapp.com/
 flight ticekt price prediction is a machine learning based model,which can predict the price of ticket for an airline, to use this model
 first create a virtual env
 
